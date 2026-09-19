@@ -1,0 +1,6 @@
+Employee Data
+=============
+1 | Rahul | IT | 35000
+2 | Priya | HR | 32000
+3 | Amit | Sales | 30000
+4 | Neha | IT | 40000
